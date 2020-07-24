@@ -1,8 +1,6 @@
-# Build a RPG Map Editor in React (part 2) [hooks, copy/paste, json]
+# ReactJS Based RPG Game! (part 3) [STARTER]
 
-Today we will build enough of the map maker tool to start using it in our game! I will show you how to copy and paste your clipboard programmatically using JavaScript's navigator object, how to do conditional rendering, and of course, lots more practice with useState and useEffect. Also, I will teach you why it is easier to keep state together that changes together instead of breaking it all up into multiple useState calls..
-
-This projects uses sprites from these awesome creators:
+This project uses sprites from:
 
 - https://stealthix.itch.io/rpg-nature-tileset
 
@@ -38,7 +36,7 @@ This projects uses sprites from these awesome creators:
 
 ## To get started
 
-Download the complete code from https://devmentor.live/screencasts/build-a-rpg-map-editor-in-react-part-2-hooks-copy-paste-json
+Download the complete code from https://devmentor.live/admin/screencasts/reactjs-based-rpg-game-part-3-map-builder-selectable-tileset-background-layer/edit
 
 OR
 
@@ -50,13 +48,6 @@ cd rpg-map-maker-3
 ```
 
 Happy Hacking!
-
-## Repo Branches (Chapters)
-
-- [0-start-here](https://github.com/devmentorlive/14857457/tree/0-start-here)
-- [1-selectable-tileset](https://github.com/devmentorlive/14857457/tree/1-selectable-tileset)
-- [2-fill-base-layer](https://github.com/devmentorlive/14857457/tree/2-fill-base-layer)
-- [3-single-state-tree](https://github.com/devmentorlive/14857457/tree/3-single-state-tree)
 
 ## Get Live, Affordable JavaScript Mentorship
 
